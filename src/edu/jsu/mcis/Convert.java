@@ -6,7 +6,7 @@ import com.opencsv.*;
 import org.json.simple.*;
 import org.json.simple.parser.*;
 
-public class Converter {
+public class Convert {
     //Kyle Glenn Daniel SAFSN
     /*
     
